@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+</head>
+<body>
+<header>
+
+<nav>
+<a href="index.html">Home</a> -
+<a href="modern.html">Modern Titles</a> -
+<a href="form.html">What do you Think?</a>
+</nav>
+
+</header>
+<h2> What do you Think?</h2>
+<p> There are many other children's books which have been transformed into movies than just the ones in these lists. The idea was to name those books which movies became "classics" or were blockbusters. Do you think we're missing one? Do you think there is a title on this list that doesn't deserve to be here?</p>
+<form name="story" action="success.html" method="post">
+	<fieldset>
+
+	<div>
+		<label>Name:</label>
+		 	<input type="text" name="name">
+	</div>
+
+	<div>
+		<label>Which one are you?:</label><br>
+		 	<input type="radio" name="book" value="bookworm">
+		Bookworm<br>
+		 	<input type="radio" name="book" value="couch potato">
+		Couch Potato<br>
+		 	<input type="radio" name="book" value="both">
+		Both<br>
+	</div>
+
+	<div>
+		<legend>Do you believe we missed a book? If so, which one?:</legend>
+		 	<input type="text" name="missing" size="85">
+	</div>
+
+	<div>
+		<legend>Do you believe a title should be dropped from the list? If so, which one and why:</legend>
+			<input type="text" name="drop" size="85">
+	</div>
+	<input type="submit" value="Submit">
+
+	</fieldset>
+</form>
+<footer>
+<a href="about.html">About</a>
+</footer>
+</body>
+</html>
