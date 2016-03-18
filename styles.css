@@ -1,3 +1,35 @@
+nav {
+	padding-top: 1%;
+	padding-bottom: 1%;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: -2px;
+}
+
+h2 {
+	text-align: center;
+	font-family: "Book Antiqua", Palatino, serif;
+}
+
+h3 {
+	text-align: center;
+}
+
+h4 {
+	border: 2px solid black;
+	padding: 1%;
+	text-align: center;
+}
+
+.image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 body {
-	background-color: #a2cfde;
+	background-image: url("Images/free-paper-texture-2.jpg");
 }
