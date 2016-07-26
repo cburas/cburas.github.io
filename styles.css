@@ -37,11 +37,11 @@ h4 {
 	text-align: center;
 }
 
-.image {
+/*.image {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
+}*/
 
 body {
 	background-image: url("Images/flower.jpg");
