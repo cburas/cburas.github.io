@@ -6,11 +6,11 @@ nav {
 }
 
 a:visited {
-	color: #551a8b;
+	color: #77afd7;
 }
 
 a:link {
-	color: #97559e;
+	color: #4b6694;
 }
 
 a:hover {
@@ -18,13 +18,16 @@ a:hover {
 }
 
 h1 {
+	margin-top: 2%;
 	text-align: center;
-	margin-bottom: -2px;
+	margin-bottom: 5%;
+	font-size: 200%;
+	color: #e28c05;
 }
 
 h2 {
 	text-align: center;
-	font-family: "Book Antiqua", Palatino, serif;
+	font-family: "Garamond", serif;
 }
 
 h3 {
@@ -32,24 +35,30 @@ h3 {
 }
 
 h4 {
-	border: 2px solid black;
+	border: 3px solid #77dbe9;
 	padding: 1%;
-	text-align: center;
+	text-align: left;
+	margin-right: 65%;
+	font-size: 130%;
 }
 
-.image {
+/*.image {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-}
+}*/
 
 body {
-	background-image: url("Images/free-paper-texture-2.jpg");
+	background-color: #c2e5da;
+	color: #0c2939;
+	margin: 10%;
+
+
 }
 
 @media screen and (min-width: 500px) {
 	a {
-		color: #de68db;
+		color: #77dbe9;
 	}
 }
 
