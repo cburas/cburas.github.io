@@ -1,7 +1,7 @@
-# index - Home - name, introduction, objective, 'pitch'
-# classic titles - Coding Journey - start to learn coding up until creation of site
-# modern titles - Current Projects - ....
-# form - Question - What coding language do you believe is the most important to know?, single select
+# Home - name, introduction, objective, 'pitch'
+# Coding Journey - start to learn coding up until creation of site
+# Current Projects - ....
+# What coding language do you believe is the most important to know?, single select
 	#stretch - add place to write name and type one sentence explaining answer
 	#stretch - 'thanks for submit' page with line graph (called report using javascript on blog.polldaddy.com) showing results
 	#stretch - show results along with sentences below.
