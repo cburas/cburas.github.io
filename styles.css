@@ -6,11 +6,11 @@ nav {
 }
 
 a:visited {
-	color: #551a8b;
+	color: #4b6694;
 }
 
 a:link {
-	color: #97559e;
+	color: #77dbe9;
 }
 
 a:hover {
@@ -32,7 +32,7 @@ h3 {
 }
 
 h4 {
-	border: 2px solid black;
+	border: 2px solid #77afd7;
 	padding: 1%;
 	text-align: center;
 }
@@ -44,12 +44,13 @@ h4 {
 }*/
 
 body {
-	background-image: url("Images/flower.jpg");
+	background-color: #de68db;
+	color: #4b6694;
 }
 
 @media screen and (min-width: 500px) {
 	a {
-		color: #de68db;
+		color: #77dbe9;
 	}
 }
 
